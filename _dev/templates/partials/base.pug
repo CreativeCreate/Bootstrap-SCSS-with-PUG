@@ -1,0 +1,24 @@
+doctype html
+html(lang='en')
+	head
+		meta(charset='utf-8')
+		meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+		meta(http-equiv='x-ua-compatible', content='ie=edge')
+		meta(name='description', content='This is a Bootstrap 4, HTML, SCSS, Gulp, & Pug project ')
+		meta(name='keywords', content='HTML, CSS, JS, Sass, JavaScript, framework, bootstrap, front-end, frontend, web development')
+		meta(name='author', content='Nish Achcha')
+		title Bootstrap 4, HTML, SCSS, Gulp, & Pug project
+		link(rel='shortcut icon', href='./images/juice-favicon.png')
+		link(rel='stylesheet', href='//use.typekit.net/wxv6big.css')
+		// build:css
+		link(rel='stylesheet', href='/css/main.min.css')
+		// endbuild
+		
+		// build:js
+		script(src='/js/main.min.js')
+		// endbuild
+	body
+		include header
+
+		block content
+		

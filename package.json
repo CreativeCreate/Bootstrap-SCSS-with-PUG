@@ -1,0 +1,31 @@
+{
+  "name": "dev-test-Zensher",
+  "version": "1.0.0",
+  "description": "Dev test for a bootstrap 4 HTML with sass",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "nish",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creativecreate/"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^5.0.3",
+    "gulp-pug": "^4.0.1"
+  }
+}
