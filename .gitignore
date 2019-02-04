@@ -44,7 +44,7 @@ Temporary Items
 node_modules/
 
 ### Distribution/build folder ###
-_public/
+#_public/
 
 # sublime project files
 *.sublime-project

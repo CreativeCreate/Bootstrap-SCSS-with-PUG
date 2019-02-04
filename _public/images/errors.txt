@@ -1,0 +1,1 @@
+[2019-2-3 23:53:42] layer "cart-icon-filled.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
