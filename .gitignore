@@ -51,4 +51,4 @@ node_modules/
 *.sublime-workspace
 
 # raw files
-#*.psd
+*.psd
