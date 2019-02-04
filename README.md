@@ -16,6 +16,11 @@ I combined theme specific SCSS files with "Bootstrap 4 SASS". Even though this p
 * Made CSS and Bootstrap as the primary solution to as many possible scenarios.
 * Used BEM naming convention for css classnames (blockName__elementName--modifierName)
 
+NOTE: 
+* Missing fonts DINPro - Some reason, my adobe subscription did NOT show DINPro Typekit font. Also, I was unable to find the same front on Typekit.com. So, I have used a similar available font for demonstration purpose.
+* Due to time-limit I have temporary created all SCSS code on this main.scss w/o moving to their partials folders.
+
+
 ### Moulder HTML with PUG
 I used PUG to modularize HTML components. Since the nature of this project (a test), I used pure HTML instead pug shorthand writing.  
 
